@@ -5,5 +5,4 @@
 // the compiled file.
 //
 //= require jquery-1.4.2
-//= require jqtouch
 //= require_tree .
